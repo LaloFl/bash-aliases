@@ -1,1 +1,1 @@
-My aliases for bash
+My aliases for bash!
