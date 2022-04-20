@@ -1,0 +1,1 @@
+My aliases for bash
